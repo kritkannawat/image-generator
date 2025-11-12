@@ -1,6 +1,6 @@
 # Gemini 2.5 Flash (Nano Banana) Generation and Editing
 
-Based from [this](https://ai.google.dev/gemini-api/docs/api-key](https://github.com/google-gemini/gemini-image-editing-nextjs-quickstart)
+Based from [this](https://github.com/google-gemini/gemini-image-editing-nextjs-quickstart)
 
 Nextjs quickstart for to generating and editing images with Google Gemini 2.5 Flash. It allows users to generate images from text prompts or edit existing images through natural language instructions, maintaining conversation context for iterative refinements. Try out the hosted demo at [Hugging Face Spaces](https://huggingface.co/spaces/philschmid/image-generation-editing).
 
